@@ -1,2 +1,4 @@
-# deep-object-comparison
-Deep compare two objects, including nested arrays and objects, and returns the difference perfectly. 
+# Deep Object Comparison
+Deep compare two JSON objects, including nested arrays and objects, and returns the difference perfectly. 
+
+

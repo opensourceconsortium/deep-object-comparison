@@ -1,0 +1,28 @@
+{
+  "name": "deep-object-comparison",
+  "version": "0.0.1",
+  "description": "Deep compare two JSON objects, including nested arrays and objects, and returns the difference perfectly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opensourceconsortium/deep-object-comparison.git"
+  },
+  "keywords": [
+    "json",
+    "nested-arrays",
+    "nested-objects",
+    "objects",
+    "comparison",
+    "deep",
+    "difference"
+  ],
+  "author": "vishnu.ps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opensourceconsortium/deep-object-comparison/issues"
+  },
+  "homepage": "https://github.com/opensourceconsortium/deep-object-comparison#readme"
+}
